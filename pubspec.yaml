@@ -1,0 +1,55 @@
+name: movie_stream
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^5.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/img/profile.jpg
+  #poster
+    - assets/img/john_wick_4.jpg
+    - assets/img/poster/john_wick_4_2.jpg
+    - assets/img/poster/inception.jpg
+    - assets/img/poster/the_fall_guy.jpg
+    - assets/img/poster/top_gun_maverick.jpg
+    - assets/img/poster/terrifier_3.jpg
+    - assets/img/poster/alien_romulus.jpg
+    - assets/img/poster/longlegs.jpg
+    - assets/img/poster/the_wild_robot.jpg
+    - assets/img/poster/venom_last_dance.jpg
+    - assets/img/poster/transformers_one.jpg
+    - assets/img/poster/breaking_bad.jpg
+    - assets/img/poster/game_of_thrones.jpg
+    - assets/img/poster/peaky_blinders.jpg
+    - assets/img/poster/the_penguin.jpg
+    - assets/img/poster/the_boys.jpg
+  #banner
+    - assets/img/banner/b_john_wick_4.jpg
+    - assets/img/banner/b_inception.jpg
+    - assets/img/banner/b_the_fall_guy.jpg
+    - assets/img/banner/b_top_gun_maverick.jpg
+    - assets/img/banner/b_terrifier_3.jpg
+    - assets/img/banner/b_alien_romulus.jpg
+    - assets/img/banner/b_longlegs.jpg
+    - assets/img/banner/b_the_wild_robot.jpg
+    - assets/img/banner/b_venom_last_dance.jpg
+    - assets/img/banner/b_transformers_one.jpg
+    - assets/img/banner/b_breaking_bad.jpg
+    - assets/img/banner/b_game_of_thrones.jpg
+    - assets/img/banner/b_peaky_blinders.jpg
+    - assets/img/banner/b_the_penguin.jpg
+    - assets/img/banner/b_the_boys.jpg
